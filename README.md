@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Paawan, an engineer who loves to make stuff, primarly which i need.
 - 👀 I’m interested in ...building stuff, be it small weekend projects to year love projects !
-- 🌱 I’m currently learning ... Software Engineering [primarly Backend, i suck at frontend :( ], Architecture, and Machine Learning. 
-- 💞️ I’m looking to collaborate on ... any project, (I get excited easily :) )!
+- 🌱 I’m currently learning ... Software Engineering (primarly Backend, i suck at frontend ☹️), Architecture, and Machine Learning. 
+- 💞️ I’m looking to collaborate on ... any project, (I get excited easily 🙂)!
 - 📫 How to reach me ...just drop a mail @paawankarwa22@gmail.com.
 
 
