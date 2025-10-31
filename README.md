@@ -6,7 +6,7 @@
 
 
 
-### 💻 toolset
+### 💻 things i have worked with before
 
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=for-the-badge)
